@@ -15,7 +15,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 #### Things we understand**
 1.  I know Java[1]
 2.  I Know Data Structures[1] 
-3.  Docker Installation[1]
+3.  I Know Python[1]
 #### Things we don't understand
 1. Full Stack Development[1]
 2. Rocket Science[1]
